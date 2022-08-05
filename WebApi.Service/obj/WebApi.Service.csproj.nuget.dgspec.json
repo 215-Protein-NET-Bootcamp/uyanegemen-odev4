@@ -1,0 +1,305 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Service\\WebApi.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Base\\WebApi.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Base\\WebApi.Base.csproj",
+        "projectName": "WebApi.Base",
+        "projectPath": "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Base\\WebApi.Base.csproj",
+        "packagesPath": "C:\\Users\\Egemen Gürdal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Egemen Gürdal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Data\\WebApi.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Data\\WebApi.Data.csproj",
+        "projectName": "WebApi.Data",
+        "projectPath": "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Data\\WebApi.Data.csproj",
+        "packagesPath": "C:\\Users\\Egemen Gürdal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Egemen Gürdal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Base\\WebApi.Base.csproj": {
+                "projectPath": "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Base\\WebApi.Base.csproj"
+              },
+              "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Dto\\WebApi.Dto.csproj": {
+                "projectPath": "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Dto\\WebApi.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Dto\\WebApi.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Dto\\WebApi.Dto.csproj",
+        "projectName": "WebApi.Dto",
+        "projectPath": "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Dto\\WebApi.Dto.csproj",
+        "packagesPath": "C:\\Users\\Egemen Gürdal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Egemen Gürdal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Base\\WebApi.Base.csproj": {
+                "projectPath": "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Base\\WebApi.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Service\\WebApi.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Service\\WebApi.Service.csproj",
+        "projectName": "WebApi.Service",
+        "projectPath": "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Service\\WebApi.Service.csproj",
+        "packagesPath": "C:\\Users\\Egemen Gürdal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Egemen Gürdal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Base\\WebApi.Base.csproj": {
+                "projectPath": "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Base\\WebApi.Base.csproj"
+              },
+              "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Data\\WebApi.Data.csproj": {
+                "projectPath": "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Data\\WebApi.Data.csproj"
+              },
+              "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Dto\\WebApi.Dto.csproj": {
+                "projectPath": "C:\\Users\\Egemen Gürdal\\source\\repos\\WebApi\\WebApi.Dto\\WebApi.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

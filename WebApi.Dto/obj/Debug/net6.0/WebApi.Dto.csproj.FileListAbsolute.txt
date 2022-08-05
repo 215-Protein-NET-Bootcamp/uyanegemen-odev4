@@ -1,0 +1,15 @@
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Dto\bin\Debug\net6.0\WebApi.Dto.deps.json
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Dto\bin\Debug\net6.0\WebApi.Dto.dll
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Dto\bin\Debug\net6.0\WebApi.Dto.pdb
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Dto\bin\Debug\net6.0\WebApi.Base.dll
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Dto\bin\Debug\net6.0\WebApi.Base.pdb
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Dto\obj\Debug\net6.0\WebApi.Dto.csproj.AssemblyReference.cache
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Dto\obj\Debug\net6.0\WebApi.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Dto\obj\Debug\net6.0\WebApi.Dto.AssemblyInfoInputs.cache
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Dto\obj\Debug\net6.0\WebApi.Dto.AssemblyInfo.cs
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Dto\obj\Debug\net6.0\WebApi.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Dto\obj\Debug\net6.0\WebApi.Dto.csproj.CopyComplete
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Dto\obj\Debug\net6.0\WebApi.Dto.dll
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Dto\obj\Debug\net6.0\refint\WebApi.Dto.dll
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Dto\obj\Debug\net6.0\WebApi.Dto.pdb
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Dto\obj\Debug\net6.0\ref\WebApi.Dto.dll

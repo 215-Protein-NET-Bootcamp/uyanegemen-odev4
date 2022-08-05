@@ -1,0 +1,12 @@
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Base\bin\Debug\net6.0\WebApi.Base.deps.json
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Base\bin\Debug\net6.0\WebApi.Base.dll
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Base\bin\Debug\net6.0\WebApi.Base.pdb
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Base\obj\Debug\net6.0\WebApi.Base.csproj.AssemblyReference.cache
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Base\obj\Debug\net6.0\WebApi.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Base\obj\Debug\net6.0\WebApi.Base.AssemblyInfoInputs.cache
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Base\obj\Debug\net6.0\WebApi.Base.AssemblyInfo.cs
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Base\obj\Debug\net6.0\WebApi.Base.csproj.CoreCompileInputs.cache
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Base\obj\Debug\net6.0\WebApi.Base.dll
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Base\obj\Debug\net6.0\refint\WebApi.Base.dll
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Base\obj\Debug\net6.0\WebApi.Base.pdb
+C:\Users\Egemen Gürdal\source\repos\WebApi\WebApi.Base\obj\Debug\net6.0\ref\WebApi.Base.dll
