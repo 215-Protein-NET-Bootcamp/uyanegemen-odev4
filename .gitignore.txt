@@ -1,0 +1,6 @@
+/WebApi/appsettings.json
+/WebApi/appsettings.Development.json
+/WebApi.WorkerService/appsettings.json
+/WebApi.WorkerService/appsettings.Development.json
+/WebApi.Hangfire/appsettings.json
+/WebApi.Hangfire/appsettings.Development.json
